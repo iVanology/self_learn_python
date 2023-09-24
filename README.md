@@ -1,10 +1,10 @@
-# Assignment for Basic of Programming
+# Assignments for Basic of Programming
 
 ## Table of Contents
 
 1. [Assignment 1](assignments/11-09-2023.py)
-2. TBD
-3. Testing
+2. [Assignment 2](assignments/24-09-2023.py)
+3. TBD
 
 ## About
 
