@@ -1,4 +1,4 @@
-# Assignments for Basic of Programming
+# Basic of Programming Assignments
 
 ## Table of Contents
 
